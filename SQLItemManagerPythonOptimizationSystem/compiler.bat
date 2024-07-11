@@ -1,0 +1,1 @@
+pyinstaller --noconsole --icon=carpeta.ico --add-data="carpeta.ico;." -n GestorV1.0.3 V1.0.py
