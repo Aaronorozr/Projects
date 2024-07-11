@@ -1,0 +1,185 @@
+Partida,Destino,Distancia
+Pantitlan,Zaragoza,1320.00
+Zaragoza,Gomez Farias,762.00
+Gomez Farias,Boulevard Puerto Aereo,611.00
+Boulevard Puerto Aereo,Balbuena,595.00
+Balbuena,Moctezuma,703.00
+Moctezuma,San Lazaro,478.00
+San Lazaro,Candelaria,866.00
+Candelaria,Merced,698.00
+Merced,Pino Suarez,745.00
+Pino Suarez,Isabel la Catolica,382.00
+Isabel la Catolica,Salto del Agua,445.00
+Salto del Agua,Balderas,458.00
+Balderas,Cuauhtemoc,409.00
+Cuauhtemoc,Insurgentes,793.00
+Insurgentes,Sevilla,645.00
+Sevilla,Chapultepec,501.00
+Chapultepec,Juanacatlan,973.00
+Juanacatlan,Tacubaya,1158.00
+Tacubaya,Observatorio,1262.00
+Cuatro Caminos,Panteones,1639.00
+Panteones,Tacuba,1416.00
+Tacuba,Cuitlahuac,637.00
+Cuitlahuac,Popotla,620.00
+Popotla,Colegio Militar,462.00
+Colegio Militar,Normal,516.00
+Normal,San Cosme,657.00
+San Cosme,Revolucion,537.00
+Revolucion,Hidalgo,587.00
+Hidalgo,Bellas Artes,447.00
+Bellas Artes,Allende,387.00
+Allende,Zocalo,602.00
+Zocalo,Pino Suarez,745.00
+Pino Suarez,San Antonio Abad,817.00
+San Antonio Abad,Chabacano,642.00
+Chabacano,Viaducto,774.00
+Viaducto,Xola,490.00
+Xola,Villa de Cortes,698.00
+Villa de Cortes,Nativitas,750.00
+Nativitas,Portales,924.00
+Portales,Ermita,748.00
+Ermita,General Anaya,838.00
+General Anaya,Tasquena,1330.00
+Indios Verdes,Deportivo 18 de Marzo,1166.00
+Deportivo 18 de Marzo,Potrero,966.00
+Potrero,La Raza,1106.00
+La Raza,Tlatelolco,1445.00
+Tlatelolco,Guerrero,1042.00
+Guerrero,Hidalgo,702.00
+Hidalgo,Juarez,251.00
+Juarez,Balderas,659.00
+Balderas,Ninos Heroes,665.00
+Ninos Heroes,Hospital General,559.00
+Hospital General,Centro Medico,653.00
+Centro Medico,Etiopia/Plaza de la Transparencia,1119.00
+Etiopia/Plaza de la Transparencia,Eugenia,950.00
+Eugenia,Division del Norte,715.00
+Division del Norte,Zapata,794.00
+Zapata,Coyoacan,1153.00
+Coyoacan,Viveros/Derechos Humanos,908.00
+Viveros/Derechos Humanos,Miguel Angel de Quevedo,824.00
+Miguel Angel de Quevedo,Copilco,1295.00
+Copilco,Universidad,1306.00
+Santa Anita,Jamaica,758.00
+Jamaica,Fray Servando,1033.00
+Fray Servando,Candelaria,633.00
+Candelaria,Morelos,1062.00
+Morelos,Canal del Norte,910.00
+Canal del Norte,Consulado,884.00
+Consulado,Bondojito,645.00
+Bondojito,Talisman,959.00
+Talisman,Martin Carrera,1129.00
+Politecnico,Instituto del Petroleo,1188.00
+Instituto del Petroleo,Autobuses del Norte,1067.00
+Autobuses del Norte,La Raza,975.00
+La Raza,Misterios,892.00
+Misterios,Valle Gomez,969.00
+Valle Gomez,Consulado,679.00
+Consulado,Eduardo Molina,815.00
+Eduardo Molina,Aragon,860.00
+Aragon,Oceania,1219.00
+Oceania,Terminal Aerea,1174.00
+Terminal Aerea,Hangares,1153.00
+Hangares,Pantitlan,1644.00
+El Rosario,Tezozomoc,1257.00
+Tezozomoc,Azcapotzalco,973.00
+Azcapotzalco,Ferreria,1173.00
+Ferreria,Norte 45,1072.00
+Norte 45,Vallejo,660.00
+Vallejo,Instituto del Petroleo,755.00
+Instituto del Petroleo,Lindavista,1258.00
+Lindavista,Deportivo 18 de Marzo,1075.00
+Deportivo 18 de Marzo,La Villa,570.00
+La Villa,Basilica,1141.00
+El Rosario,Aquiles Serdan,1615.00
+Aquiles Serdan,Camarones,1402.00
+Camarones,Refineria,952.00
+Refineria,Tacuba,1295.00
+Tacuba,San Joaquin,1433.00
+San Joaquin,Polanco,1163.00
+Polanco,Auditorio,812.00
+Auditorio,Constituyentes,1430.00
+Constituyentes,Tacubaya,1005.00
+Tacubaya,San Pedro de los Pinos,1084.00
+San Pedro de los Pinos,San Antonio,606.00
+San Antonio,Mixcoac,788.00
+Mixcoac,Barranca del Muerto,1476.00
+Garibaldi,Bellas Artes,634.00
+Bellas Artes,San Juan de Letran,456.00
+San Juan de Letran,Salto del Agua,292.00
+Salto del Agua,Doctores,564.00
+Doctores,Obrera,761.00
+Obrera,Chabacano,1143.00
+Chabacano,La Viga,843.00
+La Viga,Santa Anita,633.00
+Santa Anita,Coyuya,968.00
+Coyuya,Iztacalco,993.00
+Iztacalco,Apatlaco,910.00
+Apatlaco,Aculco,534.00
+Aculco,Escuadron 201,789.00
+Escuadron 201,Atlalilco,1738.00
+Atlalilco,Iztapalapa,732.00
+Iztapalapa,Cerro de la Estrella,717.00
+Cerro de la Estrella,UAM I,1135.00
+UAM I,Constitucion de 1917,1137.00
+Pantitlan,Puebla,1380.00
+Puebla,Ciudad Deportiva,800.00
+Ciudad Deportiva,Velodromo,1110.00
+Velodromo,Mixiuhca,821.00
+Mixiuhca,Jamaica,942.00
+Jamaica,Chabacano,1031.00
+Chabacano,Lazaro Cardenas,1000.00
+Lazaro Cardenas,Centro Medico,1059.00
+Centro Medico,Chilpancingo,1152.00
+Chilpancingo,Patriotismo,955.00
+Patriotismo,Tacubaya,1133.00
+Pantitlan,Agricola Oriental,1409.00
+Agricola Oriental,Canal de San Juan,1093.00
+Canal de San Juan,Tepalcates,1456.00
+Tepalcates,Guelatao,1161.00
+Guelatao,Peñon Viejo,2206.00
+Peñon Viejo,Acatitla,1379.00
+Acatitla,Santa Marta,1100.00
+Santa Marta,Los Reyes,1783.00
+Los Reyes,La Paz,1956.00
+Ciudad Azteca,Plaza Aragon,574.00
+Plaza Aragon,Olimpica,709.00
+Olimpica,Ecatepec,596.00
+Ecatepec,Muzquiz,1485.00
+Muzquiz,Rio de los Remedios,1155.00
+Rio de los Remedios,Impulsora,436.00
+Impulsora,Nezahualcoyotl,1393.00
+Nezahualcoyotl,Villa de Aragon,1335.00
+Villa de Aragon,Bosques de Aragon,784.00
+Bosques de Aragon,Deportivo Oceania,1165.00
+Deportivo Oceania,Oceania,863.00
+Oceania,Romero Rubio,809.00
+Romero Rubio,Ricardo Flores Magon,908.00
+Ricardo Flores Magon,San Lazaro,907.00
+San Lazaro,Morelos,1296.00
+Morelos,Tepito,498.00
+Tepito,Lagunilla,611.00
+Lagunilla,Garibaldi,474.00
+Garibaldi,Guerrero,757.00
+Guerrero,Buenavista,521.00
+Tlahuac,Tlaltenco,1298.00
+Tlaltenco,Zapotitlan,1115.00
+Zapotitlan,Nopalera,1276.00
+Nopalera,Olivos,1360.00
+Olivos,Tezonco,490.00
+Tezonco,Periferico Oriente,1545.00
+Periferico Oriente,Calle 11,1111.00
+Calle 11,Lomas Estrella,906.00
+Lomas Estrella,San Andres Tomatlan,1060.00
+San Andres Tomatlan,Culhuacan,990.00
+Culhuacan,Atlalilco,1671.00
+Atlalilco,Mexicaltzingo,1922.00
+Mexicaltzingo,Ermita,1805.00
+Ermita,Eje Central,895.00
+Eje Central,Parque de los Venados,1280.00
+Parque de los Venados,Zapata,563.00
+Zapata,Hospital 20 de Noviembre,450.00
+Hospital 20 de Noviembre,Insurgentes Sur,725.00
+Insurgentes Sur,Mixcoac,651.00
+
