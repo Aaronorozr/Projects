@@ -9,10 +9,10 @@ import seaborn as sns
 import pandas as pd
 import pyodbc
 
-server = 'your_server_name'
-database = 'your_database_name'
-username = 'your_username'
-password = 'your_password'
+server = ''
+database = ''
+username = ''
+password = ''
 conn_str = f"DRIVER={{ODBC Driver 17 for SQL Server}};SERVER={server};DATABASE={database};UID={username};PWD={password}"
 
 spark = SparkSession.builder \
