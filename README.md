@@ -1,6 +1,13 @@
 # Personal Projects 💻
-
 Welcome to my GitHub repository! Here you'll find a collection of my personal projects that I have developed over the course of my professional career. Each project showcases different skills and technologies I have learned and applied. Feel free to explore and reach out if you have any questions or feedback!
+
+## About This Repository
+
+This repository is a showcase of my journey as a developer. It includes projects involving machine learning, data processing, algorithms, and database management. Each folder contains the code for its respective project. 
+
+I have many more projects that I've worked on, but due to client privacy, I am unable to upload them all here.
+
+Feel free to browse through the projects and see what I have been working on. If you have any questions or would like to collaborate, please don't hesitate to reach out!
 
 ## Projects Overview
 
@@ -22,11 +29,8 @@ A project demonstrating the process of handling and transforming Excel data usin
 ### SQLItemManagerPythonOptimizationSystem
 An item management system with database integration and supplier optimization functionalities.
 
-## About This Repository
 
-This repository is a showcase of my journey as a developer. It includes projects involving machine learning, data processing, algorithms, and database management. Each folder contains the code and relevant documentation for its respective project. 
 
-Feel free to browse through the projects and see what I have been working on. If you have any questions or would like to collaborate, please don't hesitate to reach out!
 
 ## Contact
 
