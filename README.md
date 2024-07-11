@@ -38,4 +38,3 @@ An item management system with database integration and supplier optimization fu
 - **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/aaronorozcorosas)
 - **GitHub**: [Your GitHub Profile](https://github.com/Aaronorozr)
 
-Thank you for visiting my portfolio!
