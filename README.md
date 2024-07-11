@@ -35,6 +35,6 @@ An item management system with database integration and supplier optimization fu
 ## Contact
 
 - **Email**: aaronorozr@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/aaronorozcorosas)
-- **GitHub**: [Your GitHub Profile](https://github.com/Aaronorozr)
+- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/aaronorozcorosas)
+- **GitHub**: [GitHub Profile](https://github.com/Aaronorozr)
 
