@@ -1,4 +1,4 @@
-# Aaron's Personal Projects Portfolio
+# Personal Projects 💻
 
 Welcome to my GitHub repository! Here you'll find a collection of my personal projects that I have developed over the course of my professional career. Each project showcases different skills and technologies I have learned and applied. Feel free to explore and reach out if you have any questions or feedback!
 
